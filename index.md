@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Fuck you
 
 You can use the [editor on GitHub](https://github.com/sreekar1996/Hello_world/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
